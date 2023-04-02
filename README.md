@@ -8,13 +8,8 @@
 
 
 <samp>
-I'm an undergraduate student studying Artificial Intelligence. My GitHub portfolio features some of my coursework and personal projects.
-I'm always open to collaborating and exploring new ideas.
-</samp>
-
-
-<samp>
-I'm an undergraduate student studying Artificial Intelligence. My GitHub portfolio features some of my coursework and personal projects. 
+I'm an undergraduate student studying Artificial Intelligence. 
+My GitHub portfolio features some of my coursework and personal projects.
 I'm always open to collaborating and exploring new ideas.
 </samp>
 
