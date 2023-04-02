@@ -12,9 +12,6 @@ I'm an undergraduate student studying Artificial Intelligence. My GitHub portfol
 I'm always open to collaborating and exploring new ideas.
 </samp>
 
-<a href="https://www.benjamin.michaelis.net">
-<img align="left" width="40%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png">
-</a>
 
 <samp>
 I'm an undergraduate student studying Artificial Intelligence. My GitHub portfolio features some of my coursework and personal projects. 
