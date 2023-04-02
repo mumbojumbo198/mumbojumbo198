@@ -12,14 +12,14 @@ I'm an undergraduate student studying Artificial Intelligence. My GitHub portfol
 I'm always open to collaborating and exploring new ideas.
 </samp>
 
-# (https://readme-typing-svg.demolab.com/?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Ben!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a>
-
-<!-- <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a> -->
-
-<!-- <a href="https://github.com/BenjaminMichaelis"><img alt="Hi, I'm Ben 👋" src="https://github.com/BenjaminMichaelis/BenjaminMichaelis/raw/main/gifs/gh-profileheader-words.gif" /></a> -->
-
-
+<a href="https://www.benjamin.michaelis.net">
 <img align="left" width="35%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png">
+</a>
+
+<samp>
+I'm an undergraduate student studying Artificial Intelligence. My GitHub portfolio features some of my coursework and personal projects. 
+I'm always open to collaborating and exploring new ideas.
+</samp>
 
 
 
