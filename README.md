@@ -23,7 +23,7 @@
 <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />
 
 
 <br />
