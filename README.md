@@ -7,6 +7,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79574&center=true&width=435&lines=AI%2FML+Developer;UI%2FUX+Designer+;Always+learning+new+things">
 </p>
 
+<samp>
+I'm an undergraduate student studying Artificial Intelligence. My GitHub portfolio features some of my coursework and personal projects.
+I'm always open to collaborating and exploring new ideas.
+</samp>
+
+
+
+
+<img align="left" width="35%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png">
+
+
 
 
 ### Languages and Tools:
@@ -25,6 +36,11 @@
 <img align="left" alt="MySQL" width="26px" src="img/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="img/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="img/vim/vim-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="img/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="img/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="img/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="img/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+
 
 
 <br />
