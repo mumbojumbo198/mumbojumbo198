@@ -12,7 +12,7 @@ I'm an undergraduate student studying Artificial Intelligence. My GitHub portfol
 I'm always open to collaborating and exploring new ideas.
 </samp>
 
-<a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a>
+# (https://readme-typing-svg.demolab.com/?color=%2336BCF7&size=25+&duration=2000&center=true&vCenter=true&multiline=true&width=175&height=40&lines=Hi%2C+I'm+Ben!;+;+)](https://www.benjamin.michaelis.net)  <a href="https://www.benjamin.michaelis.net"> <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a>
 
 <!-- <img src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/master/gifs/wave.gif" width="30px"> </a> -->
 
