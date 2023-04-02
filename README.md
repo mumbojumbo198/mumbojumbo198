@@ -13,7 +13,7 @@ I'm always open to collaborating and exploring new ideas.
 </samp>
 
 <a href="https://www.benjamin.michaelis.net">
-<img align="left" width="35%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png">
+<img align="left" width="40%" src="https://raw.githubusercontent.com/BenjaminMichaelis/BenjaminMichaelis/main/Images/Octocat-nobkg.png">
 </a>
 
 <samp>
