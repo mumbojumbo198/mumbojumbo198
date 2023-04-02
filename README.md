@@ -21,7 +21,7 @@
 <img align="left" alt="GraphQL" width="26px" src="img/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="img/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="img/monodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="img/mongdb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="img/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="img/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vim" width="26px" src="img/vim/vim-plain.svg" style="padding-right:10px;" />
